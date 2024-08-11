@@ -1,0 +1,2 @@
+"/usr/bin/gcc-ar-11" cr libmd5.a CMakeFiles/md5.dir/md5.c.o
+"/usr/bin/gcc-ranlib-11" libmd5.a

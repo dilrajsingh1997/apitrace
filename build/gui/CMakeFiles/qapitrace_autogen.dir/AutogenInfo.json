@@ -1,0 +1,398 @@
+{
+	"BUILD_DIR" : "/home/dilraj/Documents/apitrace/build/gui/qapitrace_autogen",
+	"CMAKE_BINARY_DIR" : "/home/dilraj/Documents/apitrace/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/dilraj/Documents/apitrace/build/gui",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/dilraj/Documents/apitrace/gui",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/dilraj/Documents/apitrace/gui/CMakeLists.txt",
+		"/home/dilraj/Documents/apitrace/gui/qapitrace.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/dilraj/Documents/apitrace",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/dilraj/Documents/apitrace/gui/adaptivedoublespinbox.h",
+			"Mu",
+			"EWIEGA46WW/moc_adaptivedoublespinbox.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/apicalldelegate.h",
+			"Mu",
+			"EWIEGA46WW/moc_apicalldelegate.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/apisurface.h",
+			"Mu",
+			"EWIEGA46WW/moc_apisurface.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/apitrace.h",
+			"Mu",
+			"EWIEGA46WW/moc_apitrace.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/apitracecall.h",
+			"Mu",
+			"EWIEGA46WW/moc_apitracecall.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/apitracefilter.h",
+			"Mu",
+			"EWIEGA46WW/moc_apitracefilter.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/apitracemodel.h",
+			"Mu",
+			"EWIEGA46WW/moc_apitracemodel.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/argumentseditor.h",
+			"Mu",
+			"EWIEGA46WW/moc_argumentseditor.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/glsledit.h",
+			"Mu",
+			"EWIEGA46WW/moc_glsledit.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/frameaxiswidget.h",
+			"Mu",
+			"J437BPAETH/moc_frameaxiswidget.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/graphaxiswidget.h",
+			"Mu",
+			"J437BPAETH/moc_graphaxiswidget.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/graphview.h",
+			"Mu",
+			"J437BPAETH/moc_graphview.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/graphwidget.h",
+			"Mu",
+			"J437BPAETH/moc_graphwidget.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/heatmapverticalaxiswidget.h",
+			"Mu",
+			"J437BPAETH/moc_heatmapverticalaxiswidget.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/heatmapview.h",
+			"Mu",
+			"J437BPAETH/moc_heatmapview.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/histogramview.h",
+			"Mu",
+			"J437BPAETH/moc_histogramview.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/timeaxiswidget.h",
+			"Mu",
+			"J437BPAETH/moc_timeaxiswidget.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/imageviewer.h",
+			"Mu",
+			"EWIEGA46WW/moc_imageviewer.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/jumpwidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_jumpwidget.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/leaktracethread.h",
+			"Mu",
+			"EWIEGA46WW/moc_leaktracethread.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/mainwindow.h",
+			"Mu",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/pixelwidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_pixelwidget.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/profiledialog.h",
+			"Mu",
+			"EWIEGA46WW/moc_profiledialog.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/profiletablemodel.h",
+			"Mu",
+			"EWIEGA46WW/moc_profiletablemodel.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/retracer.h",
+			"Mu",
+			"EWIEGA46WW/moc_retracer.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/saverthread.h",
+			"Mu",
+			"EWIEGA46WW/moc_saverthread.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/searchwidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_searchwidget.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/settingsdialog.h",
+			"Mu",
+			"EWIEGA46WW/moc_settingsdialog.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/shaderssourcewidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_shaderssourcewidget.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/tracedialog.h",
+			"Mu",
+			"EWIEGA46WW/moc_tracedialog.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/traceloader.h",
+			"Mu",
+			"EWIEGA46WW/moc_traceloader.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/traceprocess.h",
+			"Mu",
+			"EWIEGA46WW/moc_traceprocess.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/trimprocess.h",
+			"Mu",
+			"EWIEGA46WW/moc_trimprocess.cpp",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/vertexdatainterpreter.h",
+			"Mu",
+			"EWIEGA46WW/moc_vertexdatainterpreter.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/dilraj/Documents/apitrace/build/gui/qapitrace_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/dilraj/Documents/apitrace/build/gui/qapitrace_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"HAVE_READPROC_H",
+		"HAVE_X11",
+		"QT_CORE_LIB",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x050F00",
+		"QT_FORCE_ASSERTS",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_WIDGETS_LIB",
+		"_GNU_SOURCE",
+		"__STDC_FORMAT_MACROS",
+		"__STDC_LIMIT_MACROS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/dilraj/Documents/apitrace/build/gui",
+		"/home/dilraj/Documents/apitrace/gui",
+		"/home/dilraj/Documents/apitrace/thirdparty/khronos",
+		"/home/dilraj/Documents/apitrace/compat",
+		"/home/dilraj/Documents/apitrace/lib/trace",
+		"/home/dilraj/Documents/apitrace/lib/os",
+		"/home/dilraj/Documents/apitrace/lib/image",
+		"/home/dilraj/Documents/apitrace/lib/ubjson",
+		"/home/dilraj/Documents/apitrace/build",
+		"/home/dilraj/Documents/apitrace/thirdparty/md5",
+		"/home/dilraj/Documents/apitrace/thirdparty/libbacktrace",
+		"/home/dilraj/Documents/apitrace/thirdparty/snappy",
+		"/home/dilraj/Documents/apitrace/build/thirdparty/config/snappy",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [ "-nn" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/dilraj/Documents/apitrace/build/gui/qapitrace_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/home/dilraj/Documents/apitrace/build/gui/qrc_qapitrace.cpp",
+		"/home/dilraj/Documents/apitrace/build/gui/ui_argumentseditor.h",
+		"/home/dilraj/Documents/apitrace/build/gui/ui_imageviewer.h",
+		"/home/dilraj/Documents/apitrace/build/gui/ui_jumpwidget.h",
+		"/home/dilraj/Documents/apitrace/build/gui/ui_mainwindow.h",
+		"/home/dilraj/Documents/apitrace/build/gui/ui_profiledialog.h",
+		"/home/dilraj/Documents/apitrace/build/gui/ui_profilereplaydialog.h",
+		"/home/dilraj/Documents/apitrace/build/gui/ui_retracerdialog.h",
+		"/home/dilraj/Documents/apitrace/build/gui/ui_searchwidget.h",
+		"/home/dilraj/Documents/apitrace/build/gui/ui_settings.h",
+		"/home/dilraj/Documents/apitrace/build/gui/ui_shaderssourcewidget.h",
+		"/home/dilraj/Documents/apitrace/build/gui/ui_tracedialog.h"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/home/dilraj/Documents/apitrace/build/gui/CMakeFiles/qapitrace_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/dilraj/Documents/apitrace/build/gui/CMakeFiles/qapitrace_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/dilraj/Documents/apitrace/gui/adaptivedoublespinbox.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/dilraj/Documents/apitrace/gui/apicalldelegate.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/apisurface.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/apitrace.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/apitracecall.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/apitracefilter.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/apitracemodel.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/argumentseditor.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/glsledit.cpp", "Mu", null ],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/frameaxiswidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/graphaxiswidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/graphview.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/graphwidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/heatmapverticalaxiswidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/heatmapview.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/histogramview.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/dilraj/Documents/apitrace/gui/graphing/timeaxiswidget.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/dilraj/Documents/apitrace/gui/imageviewer.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/jumpwidget.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/leaktracethread.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/main.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/mainwindow.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/pixelwidget.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/profiledialog.cpp", "Mu", null ],
+		[
+			"/home/dilraj/Documents/apitrace/gui/profiletablemodel.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/dilraj/Documents/apitrace/gui/retracer.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/saverthread.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/searchwidget.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/settingsdialog.cpp", "Mu", null ],
+		[
+			"/home/dilraj/Documents/apitrace/gui/shaderssourcewidget.cpp",
+			"Mu",
+			null
+		],
+		[ "/home/dilraj/Documents/apitrace/gui/tracedialog.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/traceloader.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/traceprocess.cpp", "Mu", null ],
+		[ "/home/dilraj/Documents/apitrace/gui/trimprocess.cpp", "Mu", null ],
+		[
+			"/home/dilraj/Documents/apitrace/gui/vertexdatainterpreter.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}
